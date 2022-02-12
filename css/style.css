@@ -1,0 +1,164 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+/*--header section--*/
+
+.header{
+	width:100%;
+	float: left;
+	background-color: #f6f9f9;
+	padding: 20px 0px;
+
+}
+.logo{
+	width: 25%;
+	float: left;
+}
+.menu{
+	width: 75%;
+	float: left;
+}
+.nav ul{
+	list-style: none;
+}
+.nav ul li{
+	display: inline-block;
+	margin: 0px 20px;
+}
+.nav ul li a{
+	color: #161616;
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: capitalize;
+}
+
+.manu nav ul li a:hover{
+	color: #15a4fa;
+}
+/*--banner section--*/
+.banner{
+	width: 100%;
+	float: left;
+	background: url(../img/banner.jpg)no-repeat;
+	background-size: cover;
+	padding: 25px 0px;
+}
+.banner-main{
+	width: 60%;
+	margin: 0 auto;
+	padding-top: 150px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.banner-main h2{
+	color: #fff;
+	font-size: 120px;
+}
+.banner-main span{
+	border-bottom: 2px solid #4a8ebb;
+	display: block;
+	width: 80%;
+	margin: 5px auto;
+}
+.banner-main P{
+	color: #fff;
+	margin: 10px 0px;
+
+}
+.banner-btn{
+	padding: 10px 20px;
+	background: transparent;
+	border: 1px solid #4a8ebb;
+	color: #fff;
+	font-size: 19px;
+	margin: 10% auto;
+}
+/*--sevice section--*/
+.service{
+	width: 100%;
+	float: left;
+	background-color: #ffff;
+	padding: 20px 0px;
+}
+.sevice-top {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sevice-banner{
+	width: 100%;
+	float: left;
+}
+.service-top h2{
+	color: #161616;
+	font-size: 70px;
+	text-align: center;
+
+}
+.sevice-icon {
+    margin: 10% 0;
+}
+/*--protfolio section--*/
+
+.protfolio{
+	width: 100%;
+	float: left;
+	background-color: #f6f9f9;
+	padding: 20px 0px;
+
+}
+.protfolio-top{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 15px 5px;
+
+}
+.protfolio-banner{
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1px 0px;
+}
+.protfolio-top-h{
+	color: 2d3950;
+}
+.protfolio-p{
+	margin: 10%;
+
+}
+/*--control form section--*/
+
+
+.form{
+	width: 100%;
+	margin: 10px auto;
+	text-align: center;
+	padding: 10px 0px;
+	background-color:#2b364a;
+}
+.form-one{
+
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
